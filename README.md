@@ -12,6 +12,46 @@ Five sets of quotation marks are available: «…» “…” ‘…’ „…�
 
 As long as `AltGr` is not used, this keyboard is identical to the US layout.
 
+#### French diacritics and characters
+
+* Acute accent (_accent aigu_): `AltGr + '`
+* Grave accent (_accent grave_): ``AltGr + ` ``
+* Circumflex (_accent circonflexe_): `AltGr + 6`
+* Diaeresis (_tréma_): `AltGr + ;`
+* Cedilla (_cédille_): `AltGr + \`
+* Æ/æ ligature: `AltGt + A/a`
+* Œ/œ ligature: `AltGt + O/o`
+* «Guillemets»: `AltGr + ,` `AltGr + .`
+
+#### German diacritics and characters
+
+* Umlaut: `AltGr + ;`
+* ẞ/ß: `AltGr + S/s`
+* „German double quotes“: `AltGr + 9` `AltGr + 0`
+* ‚German single quotes‘: `AltGr + Shift + 9` `AltGr + Shift + 0`
+
+#### Other diacritics
+
+* Tilde: ``AltGr + Shift + ` `` (`AltGr + ~`)
+* Comma below: `AltGr + Shift + ,`
+* Dot below: `AltGr + Shift + .`
+* Macron: `AltGr + -`
+* Breve: `AltGr + Shift + -`
+
+#### Other punctuation
+
+* “Double quotes”: `AltGr + [` `AltGr + ]`
+* ‘Single quotes’: `AltGr + Shift + [` `AltGr + Shift + ]`
+
+#### Other characters
+
+* Thorn Þ/þ: `AltGr + T/t`
+* Eth Ð/ð: `AltGr + D/d`
+* Mu µ: `AltGr + m`
+* Cent sign ¢: `AltGr + 4`
+* Euro sign €: `AltGr + 5`
+* Pound sign £: `AltGr + Shift + 5`
+
 ### ar_US
 This is an Arabic keyboard based on the US layout.
 
