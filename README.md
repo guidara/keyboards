@@ -11,7 +11,7 @@ As long as `AltGr` is not used, this keyboard is identical to the US layout.
 ## ar_US
 This is an Arabic keyboard based on the US layout.
 
-Arabic letters are, where feasible, found on their most phonetically close Latin equivalent. Plain/emphatic pairs (e.g. س/ص) are on the same key (e.g. `s`), the emphatic letter being accessed with `Shift`.
+Arabic letters are, where feasible, found on their most phonetically close Latin equivalent. Plain/[emphatic](https://en.wikipedia.org/wiki/Emphatic_consonant) pairs (e.g. س/ص) are on the same key (e.g. `s`), the emphatic letter being accessed with `Shift`.
 
 Besides Arabic characters, this keyboard includes Persian letters as well as extra letters used in [Tunisian Arabic](https://en.wikipedia.org/wiki/Tunisian_Arabic#Arabic_script) for non-native sounds (پ=`/p/`, ڨ=`/ɡ/`, ڥ=`/v/`).
 
