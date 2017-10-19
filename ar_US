@@ -28,7 +28,7 @@ xkb_symbols "basic" {
     key <AD09> { [ Arabic_hamzaonalef,	Arabic_maddaonalef ] };
     key <AD10> { [ Arabic_hamza ] };
     key <AD11> { [ Arabic_damma,	Arabic_dammatan,	bracketright,	braceright ] };
-    key <AD12> { [ Arabic_kasra,	Arabic_kasratan,	bracketleft,	braceleft ] }; \\fatha is on the backslash key
+    key <AD12> { [ Arabic_kasra,	Arabic_kasratan,	bracketleft,	braceleft ] }; // fatha is on the backslash key
 
     key <AC01> { [ Arabic_alef,		Arabic_tehmarbuta ] };
     key <AC02> { [ Arabic_seen,		Arabic_sad ] };
