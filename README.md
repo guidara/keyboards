@@ -66,5 +66,5 @@ Besides Arabic characters, this keyboard includes Persian letters as well as ext
 
 This keyboard also includes both [Eastern Arabic and Persian numerals](https://en.wikipedia.org/wiki/Eastern_Arabic_numerals).
 
-## Instalation
+## Installation
 Follow the instructions [here](https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions).
