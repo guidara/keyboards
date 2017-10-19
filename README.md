@@ -6,6 +6,8 @@ This is a regular US keyboards with special characters added when using the `Alt
 
 Although the keyboard is designed mainly for easy access to French and German characters&mdash;including the often missing œ/Œ, æ/Æ and capital ẞ&mdash;the characters for Spanish, Portuguese, Romanian, [ALA-LC romanization of Arabic](https://en.wikipedia.org/wiki/Romanization_of_Arabic#Comparison_table), and Icelandic are also included.
 
+Five sets of quotation marks are available: «…» “…” ‘…’ „…“ and ‚…‘.
+
 As long as `AltGr` is not used, this keyboard is identical to the US layout.
 
 ## ar_US
