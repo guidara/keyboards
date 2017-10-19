@@ -42,6 +42,8 @@ As long as `AltGr` is not used, this keyboard is identical to the US layout.
 
 * “Double quotes”: `AltGr + [` `AltGr + ]`
 * ‘Single quotes’: `AltGr + Shift + [` `AltGr + Shift + ]`
+* Inverted exclamation mark ¡: `AltGr + 1`
+* Inverted question mark ¿: `AltGr + /`
 
 #### Other characters
 
@@ -51,6 +53,9 @@ As long as `AltGr` is not used, this keyboard is identical to the US layout.
 * Cent sign ¢: `AltGr + 4`
 * Euro sign €: `AltGr + 5`
 * Pound sign £: `AltGr + Shift + 5`
+* Degree sign °: `AltGr + 8`
+* Multiplication ×: `AltGr + =`
+* Division ÷: `AltGr + Shift + =`
 
 ### ar_US
 This is an Arabic keyboard based on the US layout.
