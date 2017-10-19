@@ -4,7 +4,7 @@ These are custom keyboard layouts that I use in the [XKB format](https://en.wiki
 ## fr_de_US
 This is a regular US keyboards with special characters added when using the `AltGr` key.
 
-Although the keyboard is meant for easy access to French and German characters&mdash;including the often missing œ/Œ, æ/Æ and capital ẞ&mdash;the characters for Spanish, Portuguese, Romanian, and [ALA-LC romanization of Arabic](https://en.wikipedia.org/wiki/Romanization_of_Arabic#Comparison_table) are also included.
+Although the keyboard is designed mainly for easy access to French and German characters&mdash;including the often missing œ/Œ, æ/Æ and capital ẞ&mdash;the characters for Spanish, Portuguese, Romanian, [ALA-LC romanization of Arabic](https://en.wikipedia.org/wiki/Romanization_of_Arabic#Comparison_table), and Icelandic are also included.
 
 As long as `AltGr` is not used, this keyboard is identical to the US layout.
 
