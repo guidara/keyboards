@@ -16,19 +16,19 @@ As long as `AltGr` is not used, this keyboard is identical to the US layout.
 
 * Acute accent (_accent aigu_): `AltGr`+`'`
 * Grave accent (_accent grave_): `AltGr`+`` ` ``
-* Circumflex (_accent circonflexe_): `AltGr + 6`
-* Diaeresis (_tréma_): `AltGr + ;`
-* Cedilla (_cédille_): `AltGr + \`
-* Æ/æ ligature: `AltGt + A/a`
-* Œ/œ ligature: `AltGt + O/o`
-* «Guillemets»: `AltGr + ,` `AltGr + .`
+* Circumflex (_accent circonflexe_): `AltGr`+`6`
+* Diaeresis (_tréma_): `AltGr`+`;`
+* Cedilla (_cédille_): `AltGr`+`\`
+* Æ/æ ligature: `AltGt`+`A/a`
+* Œ/œ ligature: `AltGt`+`O/o`
+* «Guillemets»: `AltGr`+`,` and `AltGr`+`.`
 
 #### German diacritics and characters
 
-* Umlaut: `AltGr + ;`
-* ẞ/ß: `AltGr + S/s`
-* „German double quotes“: `AltGr + 9` `AltGr + 0`
-* ‚German single quotes‘: `AltGr + Shift + 9` `AltGr + Shift + 0`
+* Umlaut: `AltGr`+`;`
+* ẞ/ß: `AltGr`+`S/s`
+* „German double quotes“: `AltGr`+`9` and `AltGr`+`0`
+* ‚German single quotes‘: `AltGr`+`⇧Shift`+`9` and `AltGr`+`⇧Shift`+`0`
 
 #### Other diacritics
 
