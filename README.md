@@ -14,8 +14,8 @@ As long as `AltGr` is not used, this keyboard is identical to the US layout.
 
 #### French diacritics and characters
 
-* Acute accent (_accent aigu_): `AltGr + '`
-* Grave accent (_accent grave_): ``AltGr + ` ``
+* Acute accent (_accent aigu_): `AltGr`+`'`
+* Grave accent (_accent grave_): `AltGr`+`` ` ``
 * Circumflex (_accent circonflexe_): `AltGr + 6`
 * Diaeresis (_tréma_): `AltGr + ;`
 * Cedilla (_cédille_): `AltGr + \`
