@@ -60,7 +60,7 @@ As long as `AltGr` is not used, this keyboard is identical to the [US layout](ht
 ### ar_US
 This is an Arabic keyboard loosely based on the US layout.
 
-Where feasible, Arabic letters are found on their most phonetically close Latin equivalent. Plain/[emphatic](https://en.wikipedia.org/wiki/Emphatic_consonant) pairs (e.g. س/ص) are on the same key (e.g. `s`), the emphatic letter being accessed with `Shift`.
+Where feasible, Arabic letters are found on their most phonetically close Latin equivalent. Plain/[emphatic](https://en.wikipedia.org/wiki/Emphatic_consonant) pairs are on the same keys, the emphatic letters being accessed with `Shift`. For example: s→س, S→ص.
 
 Besides Arabic characters, this keyboard includes Persian letters as well as extra letters used in [Tunisian Arabic](https://en.wikipedia.org/wiki/Tunisian_Arabic#Arabic_script) for non-native sounds (پ=`/p/`, ڨ=`/ɡ/`, ڥ=`/v/`).
 
