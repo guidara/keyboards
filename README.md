@@ -1,5 +1,5 @@
 # keyboards
-These are custom keyboard layouts that I use in the Microsoft KLC and the [XKB format](https://en.wikipedia.org/wiki/X_keyboard_extension).
+These are custom keyboard layouts that I use in the Microsoft KLC and the [XKB formats](https://en.wikipedia.org/wiki/X_keyboard_extension).
 
 ## Layouts
 
