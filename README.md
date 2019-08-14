@@ -1,16 +1,16 @@
 # keyboards
-These are custom keyboard layouts that I use in the [XKB format](https://en.wikipedia.org/wiki/X_keyboard_extension).
+These are custom keyboard layouts that I use in the Microsoft KLC and the [XKB format](https://en.wikipedia.org/wiki/X_keyboard_extension).
 
 ## Layouts
 
 ### fr_de_US
-This is a regular US keyboards with special characters added when using the `AltGr` key.
+This is a regular US keyboards with extra characters accessible using the `AltGr` key.
 
-Although the keyboard is designed mainly for easy access to French and German characters&mdash;including the often missing œ/Œ, æ/Æ and capital ẞ&mdash;the characters for Spanish, Portuguese, Romanian, [ALA-LC romanization of Arabic](https://en.wikipedia.org/wiki/Romanization_of_Arabic#Comparison_table), and Icelandic are also included.
+Although the keyboard is designed mainly for easy access to French and German characters&mdash;including the often missing œ/Œ, æ/Æ and capital ẞ&mdash;more diacritics and characters are available, including those needed for Spanish, Portuguese, Romanian, and [ALA-LC romanization of Arabic](https://en.wikipedia.org/wiki/Romanization_of_Arabic#Comparison_table) among others.
 
 Five sets of quotation marks are available: «…» “…” ‘…’ „…“ and ‚…‘.
 
-As long as `AltGr` is not used, this keyboard is identical to the US layout.
+As long as `AltGr` is not used, this keyboard is identical to the [US layout](https://en.wikipedia.org/wiki/QWERTY#United_States).
 
 #### French diacritics and characters
 
@@ -58,13 +58,15 @@ As long as `AltGr` is not used, this keyboard is identical to the US layout.
 * Division ÷: `AltGr`+`+`
 
 ### ar_US
-This is an Arabic keyboard based on the US layout.
+This is an Arabic keyboard loosely based on the US layout.
 
-Arabic letters are, where feasible, found on their most phonetically close Latin equivalent. Plain/[emphatic](https://en.wikipedia.org/wiki/Emphatic_consonant) pairs (e.g. س/ص) are on the same key (e.g. `s`), the emphatic letter being accessed with `Shift`.
+Where feasible, Arabic letters are found on their most phonetically close Latin equivalent. Plain/[emphatic](https://en.wikipedia.org/wiki/Emphatic_consonant) pairs (e.g. س/ص) are on the same key (e.g. `s`), the emphatic letter being accessed with `Shift`.
 
 Besides Arabic characters, this keyboard includes Persian letters as well as extra letters used in [Tunisian Arabic](https://en.wikipedia.org/wiki/Tunisian_Arabic#Arabic_script) for non-native sounds (پ=`/p/`, ڨ=`/ɡ/`, ڥ=`/v/`).
 
 This keyboard also includes both [Eastern Arabic and Persian numerals](https://en.wikipedia.org/wiki/Eastern_Arabic_numerals).
 
 ## Installation
-Follow the instructions [here](https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions).
+On Ubuntu, follow the instructions [here](https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions).
+
+On Windows, download [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339), open the `klc` files and generate an executable.
