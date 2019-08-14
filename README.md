@@ -19,8 +19,8 @@ As long as `AltGr` is not used, this keyboard is identical to the [US layout](ht
 * Circumflex (_accent circonflexe_): `AltGr`+`6`
 * Diaeresis (_tréma_): `AltGr`+`;`
 * Cedilla (_cédille_): `AltGr`+`\`
-* Æ/æ ligature: `AltGt`+`A/a`
-* Œ/œ ligature: `AltGt`+`O/o`
+* Æ/æ ligature: `AltGr`+`A/a`
+* Œ/œ ligature: `AltGr`+`O/o`
 * «Guillemets»: `AltGr`+`,` and `AltGr`+`.`
 
 #### German diacritics and characters
