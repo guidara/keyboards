@@ -67,6 +67,6 @@ Besides Arabic characters, this keyboard includes Persian and Urdu letters as we
 This keyboard also includes both [Eastern Arabic and Persian numerals](https://en.wikipedia.org/wiki/Eastern_Arabic_numerals).
 
 ## Installation
-On Ubuntu, follow the instructions [here](https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions).
+On Ubuntu, follow the instructions [here](https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions) or [here](https://dev.to/szabi/custom-keyboard-layout-in-gnu-linux-i5f).
 
 On Windows, download [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339), open the `klc` files and generate an executable. Alternatively, download and run the installers.
