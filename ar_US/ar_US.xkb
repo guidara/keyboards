@@ -19,11 +19,11 @@ xkb_symbols "arabic" {
     key <AE12> { [              equal,                  plus,             multiply,               division ] }; // = +   × ÷
 
     key <AD01> { [         Arabic_qaf,                 U06A8,                U06A7,                  U066F ] }; // ‎ق‎ ‎ڨ‎   ‎ڧ‎ ‎ٯ‎
-    key <AD02> { [         Arabic_waw,              NoSymbol,             NoSymbol,               NoSymbol ] }; // و
-    key <AD03> { [         Arabic_ain,              NoSymbol,             NoSymbol,               NoSymbol ] }; // ع
-    key <AD04> { [          Arabic_ra,            Arabic_jeh,          Arabic_rreh,               NoSymbol ] }; // ر ʼ ژ ʼ ڑ
-    key <AD05> { [         Arabic_teh,            Arabic_tah,          Arabic_tteh,               NoSymbol ] }; // ت ʼ ط ʼ ٹ
-    key <AD06> { [         Arabic_yeh,    Arabic_alefmaksura,            Farsi_yeh,       Arabic_yeh_baree ] }; // يـي ʼ ىـى ʼ یـی ʼ ے
+    key <AD02> { [         Arabic_waw,              NoSymbol,             NoSymbol,               NoSymbol ] }; // ‎و‎
+    key <AD03> { [         Arabic_ain,              NoSymbol,             NoSymbol,               NoSymbol ] }; // ‎ع‎
+    key <AD04> { [          Arabic_ra,            Arabic_jeh,          Arabic_rreh,               NoSymbol ] }; // ‎ر‎ ‎ژ‎   ‎ڑ‎
+    key <AD05> { [         Arabic_teh,            Arabic_tah,          Arabic_tteh,               NoSymbol ] }; // ‎ت‎ ‎ط‎   ‎ٹ‎
+    key <AD06> { [         Arabic_yeh,    Arabic_alefmaksura,            Farsi_yeh,       Arabic_yeh_baree ] }; // ‎يـي‎ ‎ىـى‎   ‎یـی‎ ‎ے‎
     key <AD07> { [  Arabic_hamzaonwaw,     Arabic_hamzaonwaw,             NoSymbol,               NoSymbol ] }; // ؤ ʼ ؤ
     key <AD08> { [  Arabic_hamzaonyeh, Arabic_hamzaunderalef,                U06D3,               NoSymbol ] }; // ئ ʼ إ ʼ ۓ
     key <AD09> { [ Arabic_hamzaonalef,    Arabic_maddaonalef,                U06C2,               NoSymbol ] }; // أ ʼ آ ʼ ۂ
