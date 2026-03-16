@@ -7,7 +7,7 @@ These are custom keyboard layouts that I use in the Microsoft KLC and the
 
 ### fr_de_US
 
-This is a regular US keyboards with extra characters accessible using the `AltGr` key.
+This is a regular US keyboards with extra characters accessible using the <kbd>AltGr</kbd> key.
 
 Although the keyboard is designed mainly for easy access to French and German characters&mdash;including the often
 missing œ/Œ, æ/Æ and capital ẞ&mdash;more diacritics and characters are available, including those needed for Spanish,
@@ -15,121 +15,121 @@ Portuguese, Romanian, and others.
 
 Five sets of quotation marks are available: «…» “…” ‘…’ „…“ and ‚…‘.
 
-As long as `AltGr` is not used, this keyboard is identical to the
+As long as <kbd>AltGr</kbd> is not used, this keyboard is identical to the
 [US layout](https://en.wikipedia.org/wiki/QWERTY#United_States).
 
 #### French diacritics and characters
 
-- ◌́ Acute accent (_accent aigu_): `AltGr`+`'`
-- ◌̀ Grave accent (_accent grave_): `AltGr`+`` ` ``
-- ◌̂ Circumflex (_accent circonflexe_): `AltGr`+`6`
-- ◌̈ Diaeresis (_tréma_): `AltGr`+`;`
-- ◌̧ Cedilla (_cédille_): `AltGr`+`\`
-- Æ/æ ligature: `AltGr`+`A/a`
-- Œ/œ ligature: `AltGr`+`O/o`
-- «Guillemets»: `AltGr`+`,` and `AltGr`+`.`
+- ◌́ Acute accent (_accent aigu_): <kbd>AltGr</kbd> + <kbd>'</kbd>
+- ◌̀ Grave accent (_accent grave_): <kbd>AltGr</kbd> + <kbd>`</kbd>
+- ◌̂ Circumflex (_accent circonflexe_): <kbd>AltGr</kbd> + <kbd>6</kbd>
+- ◌̈ Diaeresis (_tréma_): <kbd>AltGr</kbd> + <kbd>;</kbd>
+- ◌̧ Cedilla (_cédille_): <kbd>AltGr</kbd> + <kbd>\\</kbd>
+- Æ/æ ligature: <kbd>AltGr</kbd> + <kbd>A</kbd>/<kbd>a</kbd>
+- Œ/œ ligature: <kbd>AltGr</kbd> + <kbd>O</kbd>/<kbd>o</kbd>
+- «Guillemets»: <kbd>AltGr</kbd> + <kbd>,</kbd>/<kbd>.</kbd>
 
 #### German diacritics and characters
 
-- ◌̈ Umlaut: `AltGr`+`;`
-- ẞ/ß (_Eszett / scharfes S_): `AltGr`+`S/s`
-- „German double quotes“: `AltGr`+`9` and `AltGr`+`0`
-- ‚German single quotes‘: `AltGr`+`(` and `AltGr`+`)`
+- ◌̈ Umlaut: <kbd>AltGr</kbd> + <kbd>;</kbd>
+- ẞ/ß (_Eszett / scharfes S_): <kbd>AltGr</kbd> + <kbd>S</kbd>/<kbd>s</kbd>
+- „German double quotes“: <kbd>AltGr</kbd> + <kbd>9</kbd>/<kbd>0</kbd>
+- ‚German single quotes‘: <kbd>AltGr</kbd> + <kbd>(</kbd>/<kbd>)</kbd>
 
 #### Diacritics
 
-- ◌̀ Grave accent: `AltGr`+`` ` ``
-- ◌̃ Tilde: `AltGr`+`~`
-- ◌̂ Circumflex: `AltGr`+`6`
-- ◌̌ Caron: `AltGr`+`^`
-- ◌̊ Ring above: `AltGr`+`*`
-- ◌̄ Macron: `AltGr`+`-`
-- ◌̆ Breve: `AltGr`+`_`
-- ◌̈ Diaeresis: `AltGr`+`;`
-- ◌̇ Dot above: `AltGr`+`:`
-- ◌́ Acute accent: `AltGr`+`'`
-- ◌̋ Double acute accent: `AltGr`+`"`
-- ◌̦ Comma below: `AltGr`+`<`
-- ◌̣ Dot below: `AltGr`+`>`
-- ◌̧ Cedilla: `AltGr`+`\`
-- ◌̨ Ogonek: `AltGr`+`|`
+- ◌̀ Grave accent: <kbd>AltGr</kbd> + <kbd>`</kbd>
+- ◌̃ Tilde: <kbd>AltGr</kbd> + <kbd>~</kbd>
+- ◌̂ Circumflex: <kbd>AltGr</kbd> + <kbd>6</kbd>
+- ◌̌ Caron: <kbd>AltGr</kbd> + <kbd>^</kbd>
+- ◌̊ Ring above: <kbd>AltGr</kbd> + <kbd>\*</kbd>
+- ◌̄ Macron: <kbd>AltGr</kbd> + <kbd>-</kbd>
+- ◌̆ Breve: <kbd>AltGr</kbd> + <kbd>\_</kbd>
+- ◌̈ Diaeresis: <kbd>AltGr</kbd> + <kbd>;</kbd>
+- ◌̇ Dot above: <kbd>AltGr</kbd> + <kbd>:</kbd>
+- ◌́ Acute accent: <kbd>AltGr</kbd> + <kbd>'</kbd>
+- ◌̋ Double acute accent: <kbd>AltGr</kbd> + <kbd>"</kbd>
+- ◌̦ Comma below: <kbd>AltGr</kbd> + <kbd><</kbd>
+- ◌̣ Dot below: <kbd>AltGr</kbd> + <kbd>></kbd>
+- ◌̧ Cedilla: <kbd>AltGr</kbd> + <kbd>\\</kbd>
+- ◌̨ Ogonek: <kbd>AltGr</kbd> + <kbd>|</kbd>
 
 #### Punctuation
 
-- «Guillemets»: `AltGr`+`,` and `AltGr`+`.`
-- “Double quotes”: `AltGr`+`[` and `AltGr`+`]`
-- ‘Single quotes’: `AltGr`+`{` and `AltGr`+`}`
-- „German double quotes“: `AltGr`+`9` and `AltGr`+`0`
-- ‚German single quotes‘: `AltGr`+`(` and `AltGr`+`)`
-- ¡ Inverted exclamation mark: `AltGr`+`1`
-- ¿ Inverted question mark: `AltGr`+`/`
+- «Guillemets»: <kbd>AltGr</kbd> + <kbd>,</kbd>/<kbd>.</kbd>
+- “Double quotes”: <kbd>AltGr</kbd> + <kbd>[</kbd>/<kbd>]</kbd>
+- ‘Single quotes’: <kbd>AltGr</kbd> + <kbd>{</kbd>/<kbd>}</kbd>
+- „German double quotes“: <kbd>AltG</kbd> + <kbd>9</kbd>/<kbd>0</kbd>
+- ‚German single quotes‘: <kbd>AltGr</kbd> + <kbd>(</kbd>/<kbd>)</kbd>
+- ¡ Inverted exclamation mark: <kbd>AltGr</kbd> + <kbd>1</kbd>
+- ¿ Inverted question mark: <kbd>AltGr</kbd> + <kbd>/</kbd>
 
 #### Other characters
 
-- Æ/æ ligature: `AltGr`+`A/a`
-- Ð/ð Eth: `AltGr`+`D/d`
-- Œ/œ ligature: `AltGr`+`O/o`
-- ẞ/ß: `AltGr`+`S/s`
-- Þ/þ Thorn: `AltGr`+`T/t`
-- µ Mu: `AltGr`+`m`
-- ¢ Cent sign: `AltGr`+`4`
-- € Euro sign: `AltGr`+`5`
-- £ Pound sign: `AltGr`+`%`
-- ° Degree sign: `AltGr`+`8`
-- × Multiplication: `AltGr`+`=`
-- ÷ Division: `AltGr`+`+`
+- Æ/æ ligature: <kbd>AltGr</kbd> + <kbd>A</kbd>/<kbd>a</kbd>
+- Ð/ð Eth: <kbd>AltGr</kbd> + <kbd>D</kbd>/<kbd>d</kbd>
+- Œ/œ ligature: <kbd>AltGr</kbd> + <kbd>O</kbd>/<kbd>o</kbd>
+- ẞ/ß: <kbd>AltGr</kbd> + <kbd>S</kbd>/<kbd>s</kbd>
+- Þ/þ Thorn: <kbd>AltGr</kbd> + <kbd>T</kbd>/<kbd>t</kbd>
+- µ Mu: <kbd>AltGr</kbd> + <kbd>m</kbd>
+- ¢ Cent sign: <kbd>AltGr</kbd> + <kbd>4</kbd>
+- € Euro sign: <kbd>AltGr</kbd> + <kbd>5</kbd>
+- £ Pound sign: <kbd>AltGr</kbd> + <kbd>%</kbd>
+- ° Degree sign: <kbd>AltGr</kbd> + <kbd>8</kbd>
+- × Multiplication: <kbd>AltGr</kbd> + <kbd>=</kbd>
+- ÷ Division: <kbd>AltGr</kbd> + <kbd>+</kbd>
 
 #### Table of characters
 
-| Key | `Shift` | `AltGr` | `AltGr+Shift` |
-| :-: | :-----: | :-----: | :-----------: |
-|  `  |    ~    |    ◌̀    |       ◌̃       |
-|  1  |    !    |    ¡    |               |
-|  2  |    @    |         |               |
-|  3  |    #    |         |               |
-|  4  |    $    |    ¢    |               |
-|  5  |    %    |    €    |       £       |
-|  6  |    ^    |    ◌̂    |       ◌̌       |
-|  7  |    &    |         |               |
-|  8  |   \*    |    °    |       ◌̊       |
-|  9  |    (    |    „    |       ‚       |
-|  0  |    )    |    “    |       ‘       |
-|  -  |   \_    |    ◌̄    |       ◌̆       |
-|  =  |    +    |    ×    |       ÷       |
-|  q  |    Q    |         |               |
-|  w  |    W    |         |               |
-|  e  |    E    |         |               |
-|  r  |    R    |    ®    |               |
-|  t  |    T    |    þ    |       Þ       |
-|  y  |    Y    |         |               |
-|  u  |    U    |         |               |
-|  i  |    I    |         |               |
-|  o  |    O    |    œ    |       Œ       |
-|  p  |    P    |         |               |
-|  [  |    {    |    “    |       ‘       |
-|  ]  |    }    |    ”    |       ’       |
-| \   |   \|    |    ◌̧    |       ◌̨       |
-|  a  |    A    |    æ    |       Æ       |
-|  s  |    S    |    ß    |       ẞ       |
-|  d  |    D    |    ð    |       Ð       |
-|  f  |    F    |         |               |
-|  g  |    G    |         |               |
-|  h  |    H    |         |               |
-|  j  |    J    |         |               |
-|  k  |    K    |         |               |
-|  l  |    L    |         |               |
-|  ;  |    :    |    ◌̈    |       ◌̇       |
-|  '  |    "    |    ◌́    |       ◌̋       |
-|  z  |    Z    |         |               |
-|  x  |    X    |         |               |
-|  c  |    C    |    ©    |               |
-|  v  |    V    |         |               |
-|  b  |    B    |         |               |
-|  n  |    N    |         |               |
-|  m  |    M    |    µ    |       ™       |
-|  ,  |    <    |    «    |       ◌̦       |
-|  .  |    >    |    »    |       ◌̣       |
-|  /  |    ?    |    ¿    |               |
+| Key | <kbd>Shift</kbd> | <kbd>AltGr</kbd> | <kbd>AltGr</kbd> + <kbd>Shift</kbd> |
+| :-: | :--------------: | :--------------: | :---------------------------------: |
+|  `  |        ~         |        ◌̀         |                  ◌̃                  |
+|  1  |        !         |        ¡         |                                     |
+|  2  |        @         |                  |                                     |
+|  3  |        #         |                  |                                     |
+|  4  |        $         |        ¢         |                                     |
+|  5  |        %         |        €         |                  £                  |
+|  6  |        ^         |        ◌̂         |                  ◌̌                  |
+|  7  |        &         |                  |                                     |
+|  8  |        \*        |        °         |                  ◌̊                  |
+|  9  |        (         |        „         |                  ‚                  |
+|  0  |        )         |        “         |                  ‘                  |
+|  -  |        \_        |        ◌̄         |                  ◌̆                  |
+|  =  |        +         |        ×         |                  ÷                  |
+|  q  |        Q         |                  |                                     |
+|  w  |        W         |                  |                                     |
+|  e  |        E         |                  |                                     |
+|  r  |        R         |        ®         |                                     |
+|  t  |        T         |        þ         |                  Þ                  |
+|  y  |        Y         |                  |                                     |
+|  u  |        U         |                  |                                     |
+|  i  |        I         |                  |                                     |
+|  o  |        O         |        œ         |                  Œ                  |
+|  p  |        P         |                  |                                     |
+|  [  |        {         |        “         |                  ‘                  |
+|  ]  |        }         |        ”         |                  ’                  |
+| \   |        \|        |        ◌̧         |                  ◌̨                  |
+|  a  |        A         |        æ         |                  Æ                  |
+|  s  |        S         |        ß         |                  ẞ                  |
+|  d  |        D         |        ð         |                  Ð                  |
+|  f  |        F         |                  |                                     |
+|  g  |        G         |                  |                                     |
+|  h  |        H         |                  |                                     |
+|  j  |        J         |                  |                                     |
+|  k  |        K         |                  |                                     |
+|  l  |        L         |                  |                                     |
+|  ;  |        :         |        ◌̈         |                  ◌̇                  |
+|  '  |        "         |        ◌́         |                  ◌̋                  |
+|  z  |        Z         |                  |                                     |
+|  x  |        X         |                  |                                     |
+|  c  |        C         |        ©         |                                     |
+|  v  |        V         |                  |                                     |
+|  b  |        B         |                  |                                     |
+|  n  |        N         |                  |                                     |
+|  m  |        M         |        µ         |                  ™                  |
+|  ,  |        <         |        «         |                  ◌̦                  |
+|  .  |        >         |        »         |                  ◌̣                  |
+|  /  |        ?         |        ¿         |                                     |
 
 ### ar_US
 
@@ -137,67 +137,68 @@ This is an Arabic keyboard loosely based on the US layout.
 
 Where feasible, Arabic letters are found on their most phonetically close Latin equivalent.
 Plain/[emphatic](https://en.wikipedia.org/wiki/Emphatic_consonant) pairs are on the same keys, the emphatic letters
-being accessed with `Shift`. For example: `s`→س, `S`→ص.
+being accessed with <kbd>Shift</kbd>. For example: <kbd>s</kbd>→س, <kbd>S</kbd>→ص.
 
 Besides Arabic characters, this keyboard includes:
+
 - Persian and Urdu letters;
 - [Tunisian Arabic](https://en.wikipedia.org/wiki/Tunisian_Arabic#Arabic_script) characters for non-native sounds
-(پ=`/p/`, ڨ=`/ɡ/`, ڥ=`/v/`);
+  (پ=`/p/`, ڨ=`/ɡ/`, ڥ=`/v/`);
 - Other [additional Arabic letters](https://en.wikipedia.org/wiki/Arabic_alphabet#Additional_letters) for regional variations and non-native sounds.
 
 This keyboard also includes both [Eastern Arabic and Persian numerals](https://en.wikipedia.org/wiki/Eastern_Arabic_numerals).
 
 #### Table of characters
 
-|   Key   |   `Base`    | `Shift` |   `AltGr`   | `AltGr+Shift` |
-| :-----: | :---------: | :-----: | :---------: | :-----------: |
-| `` ` `` |     ◌ّ      |   ◌ْ    |      `      |       ~       |
-|   `1`   |      1      |    !    |      ١      |       ۱       |
-|   `2`   |      2      |    @    |      ٢      |       ۲       |
-|   `3`   |      3      |    #    |      ٣      |       ۳       |
-|   `4`   |      4      |    $    |      ٤      |       ۴       |
-|   `5`   |      5      |    %    |      ٥      |       ۵       |
-|   `6`   |      6      |    ^    |      ٦      |       ۶       |
-|   `7`   |      7      |    &    |      ٧      |       ۷       |
-|   `8`   |      8      |   \*    |      ٨      |       ۸       |
-|   `9`   |      9      |    )    |      ٩      |       ۹       |
-|   `0`   |      0      |    (    |      ٠      |       ۰       |
-|   `-`   |      -      |   ◌ـ◌   |     \_      |               |
-|   `=`   |      =      |    +    |      ×      |       ÷       |
-|   `q`   |      ق      |    ڨ    |      ڧ      |       ٯ       |
-|   `w`   |      و      |         |             |               |
-|   `e`   |      ع      |         |             |               |
-|   `r`   |      ر      |    ژ    |      ڑ      |               |
-|   `t`   |      ت      |    ط    |      ٹ      |               |
-|   `y`   |    يـ ي     |  ىـ ى   |    یـ ی     |       ے       |
-|   `u`   |      ؤ      |    ؤ    |             |               |
-|   `i`   |      ئ      |    إ    |      ۓ      |               |
-|   `o`   |      أ      |    آ    |      ۂ      |               |
-|   `p`   |      ء      |   ◌ٔ    |             |               |
-|   `[`   |     ◌ُ      |   ◌ٌ    |      ]      |       }       |
-|   `]`   |     ◌ِ      |   ◌ٍ    |      [      |       {       |
-|   `\`   |     ◌َ      |   ◌ً    |     \       |      \|       |
-|   `a`   |      ا      |    ة    |      ۃ      |               |
-|   `s`   |      س      |    ص    |             |               |
-|   `d`   |      د      |    ض    |      ڈ      |               |
-|   `f`   |      ف      |    ڥ    |      ڤ      |       ڢ       |
-|   `g`   |      غ      |    گ    |             |               |
-|   `h`   | هـ ـهـ ـه ه |    ح    | ہـ ـہـ ـہ ہ |       ھ       |
-|   `j`   |      ج      |    چ    |             |               |
-|   `k`   |      ك      |    ک    |      ڭ      |       ݣ       |
-|   `l`   |      ل      |         |             |               |
-|   `;`   |      ؛      |    :    |             |               |
-|   `'`   |      '      |    "    |             |               |
-|   `z`   |      ز      |    ظ    |             |               |
-|   `x`   |      خ      |         |             |               |
-|   `c`   |      ش      |         |             |               |
-|   `v`   |      ذ      |    ث    |             |               |
-|   `b`   |      ب      |    پ    |             |               |
-|   `n`   |      ن      |    ں    |     ◌٘      |               |
-|   `m`   |      م      |         |             |               |
-|   `,`   |      ،      |    »    |      ”      |       <       |
-|   `.`   |      .      |    «    |      “      |       >       |
-|   `/`   |      /      |    ؟    |             |               |
+|      Key      |    Base     | <kbd>Shift</kbd> | <kbd>AltGr</kbd> | <kbd>AltGr</kbd> + <kbd>Shift</kbd> |
+| :-----------: | :---------: | :--------------: | :--------------: | :---------------------------------: |
+| <kbd>`</kbd>  |     ◌ّ      |        ◌ْ        |        `         |                  ~                  |
+| <kbd>1</kbd>  |      1      |        !         |        ١         |                  ۱                  |
+| <kbd>2</kbd>  |      2      |        @         |        ٢         |                  ۲                  |
+| <kbd>3</kbd>  |      3      |        #         |        ٣         |                  ۳                  |
+| <kbd>4</kbd>  |      4      |        $         |        ٤         |                  ۴                  |
+| <kbd>5</kbd>  |      5      |        %         |        ٥         |                  ۵                  |
+| <kbd>6</kbd>  |      6      |        ^         |        ٦         |                  ۶                  |
+| <kbd>7</kbd>  |      7      |        &         |        ٧         |                  ۷                  |
+| <kbd>8</kbd>  |      8      |        \*        |        ٨         |                  ۸                  |
+| <kbd>9</kbd>  |      9      |        )         |        ٩         |                  ۹                  |
+| <kbd>0</kbd>  |      0      |        (         |        ٠         |                  ۰                  |
+| <kbd>-</kbd>  |      -      |       ◌ـ◌        |        \_        |                                     |
+| <kbd>=</kbd>  |      =      |        +         |        ×         |                  ÷                  |
+| <kbd>q</kbd>  |      ق      |        ڨ         |        ڧ         |                  ٯ                  |
+| <kbd>w</kbd>  |      و      |                  |                  |                                     |
+| <kbd>e</kbd>  |      ع      |                  |                  |                                     |
+| <kbd>r</kbd>  |      ر      |        ژ         |        ڑ         |                                     |
+| <kbd>t</kbd>  |      ت      |        ط         |        ٹ         |                                     |
+| <kbd>y</kbd>  |    يـ ي     |       ىـ ى       |       یـ ی       |                  ے                  |
+| <kbd>u</kbd>  |      ؤ      |        ؤ         |                  |                                     |
+| <kbd>i</kbd>  |      ئ      |        إ         |        ۓ         |                                     |
+| <kbd>o</kbd>  |      أ      |        آ         |        ۂ         |                                     |
+| <kbd>p</kbd>  |      ء      |        ◌ٔ        |                  |                                     |
+| <kbd>[</kbd>  |     ◌ُ      |        ◌ٌ        |        ]         |                  }                  |
+| <kbd>]</kbd>  |     ◌ِ      |        ◌ٍ        |        [         |                  {                  |
+| <kbd>\\</kbd> |     ◌َ      |        ◌ً        |        \         |                 \|                  |
+| <kbd>a</kbd>  |      ا      |        ة         |        ۃ         |                                     |
+| <kbd>s</kbd>  |      س      |        ص         |                  |                                     |
+| <kbd>d</kbd>  |      د      |        ض         |        ڈ         |                                     |
+| <kbd>f</kbd>  |      ف      |        ڥ         |        ڤ         |                  ڢ                  |
+| <kbd>g</kbd>  |      غ      |        گ         |                  |                                     |
+| <kbd>h</kbd>  | هـ ـهـ ـه ه |        ح         |   ہـ ـہـ ـہ ہ    |                  ھ                  |
+| <kbd>j</kbd>  |      ج      |        چ         |                  |                                     |
+| <kbd>k</kbd>  |      ك      |        ک         |        ڭ         |                  ݣ                  |
+| <kbd>l</kbd>  |      ل      |                  |                  |                                     |
+| <kbd>;</kbd>  |      ؛      |        :         |                  |                                     |
+| <kbd>'</kbd>  |      '      |        "         |                  |                                     |
+| <kbd>z</kbd>  |      ز      |        ظ         |                  |                                     |
+| <kbd>x</kbd>  |      خ      |                  |                  |                                     |
+| <kbd>c</kbd>  |      ش      |                  |                  |                                     |
+| <kbd>v</kbd>  |      ذ      |        ث         |                  |                                     |
+| <kbd>b</kbd>  |      ب      |        پ         |                  |                                     |
+| <kbd>n</kbd>  |      ن      |        ں         |        ◌٘        |                                     |
+| <kbd>m</kbd>  |      م      |                  |                  |                                     |
+| <kbd>,</kbd>  |      ،      |        »         |        ”         |                  <                  |
+| <kbd>.</kbd>  |      .      |        «         |        “         |                  >                  |
+| <kbd>/</kbd>  |      /      |        ؟         |                  |                                     |
 
 ## Installation
 
